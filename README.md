@@ -1,3 +1,4 @@
 # Operators
  
-Don't forget to add your thoughts on the % operator.  Also, make sure you are clear on the compound assignment syntax.  Ask for help if you need it.
+Read pages 41-47. Do the quiz on page on page 47. Make sure you pay attention to the mod (%) operator and compound operators. You must use them correctly in the lab.
+

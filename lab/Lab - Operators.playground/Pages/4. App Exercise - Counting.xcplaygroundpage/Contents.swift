@@ -1,17 +1,15 @@
 /*:
  ## App Exercise - Counting
  
- >These exercises reinforce Swift concepts in the context of a fitness tracking app.
- 
- The most basic feature of your fitness tracking app is counting steps. Create a variable `steps` and set it equal to 0. Then increment its value by 1 to simulate a user taking a step.
+ The most basic feature of your math tutoring app is counting the number of questions attempted. Create a variable `questionsCount` and set it equal to 50. Then increment its value by 1 to simulate a user attempting a question. (.25 points)
  */
 
 
 /*:
- In addition to tracking steps, your fitness tracking app tracks distance traveled. Create a variable `distance` of type `Double` and set it equal to 50. This will represent the user having traveled 50 feet.
+ In addition to tracking questions attempted, your fitness tracking app tracks the number of correct answers. Create a variable `questionsCorrect` of type `Int` and set it equal to 46. This will represent the user having gotten 46 questions correct.
  
- You decide, however, to display the distance in meters. 1 meter is approximately equal to 3 feet. Use a compound assignment operator to convert `distance` to meters. Print the result.
+ You decide, however, to display the total number of points accumulated. 1 question is worth 3 points. Use a compound assignment operator to convert `questionsCorrect` to points. Print the result. (.50 points)
  */
 
 
-//: [Previous](@previous)  |  page 4 of 8  |  [Next: Exercise - Order of Operations](@next)
+//: [Previous](@previous)  |  page 4 of 8  |  [Next](@next)
